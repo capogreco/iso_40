@@ -216,6 +216,10 @@ F 3 "" H 4250 4300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4250 4300 4400 4300
+Wire Wire Line
+	3700 4600 3600 4600
+Wire Wire Line
+	4000 4500 3600 4500
 $Comp
 L Device:R_Small R?
 U 1 1 5F1598E0
@@ -372,12 +376,4 @@ Wire Wire Line
 Connection ~ 4400 3500
 Wire Wire Line
 	4400 3050 4400 3100
-Text GLabel 3550 4500 0    50   Input ~ 0
-D+
-Text GLabel 3550 4600 0    50   Input ~ 0
-D-
-Wire Wire Line
-	3550 4500 4000 4500
-Wire Wire Line
-	3550 4600 3700 4600
 $EndSCHEMATC
