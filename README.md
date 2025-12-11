@@ -1,4 +1,4 @@
-# iso_40
+# objet petit a
 staggered 40% with iso enter
 
 ![iso 40 layout](iso_40.png)
@@ -11,8 +11,3 @@ staggered 40% with iso enter
 | 3     | 5      |
 | total | **40** |
 
-
-##	potential names:
--	axon
--	deet
--	plat
