@@ -1,5 +1,8 @@
-# a petite
-staggered 40% with iso enter
+# button
+
+little big staggered 40 with iso enter
+
+inspired by happy hacking.
 
 ![iso 40 layout](iso_40.png)
 
@@ -10,4 +13,3 @@ staggered 40% with iso enter
 | 2     | 12     |
 | 3     | 5      |
 | total | **40** |
-
