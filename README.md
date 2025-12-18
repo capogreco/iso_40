@@ -1,15 +1,9 @@
-# button
+# Tender Mending Sender
 
-little big staggered 40 with iso enter
+staggered 40% with an ISO enter
 
-inspired by happy hacking.
+do what you love
+say what you mean
+and fucking send it
 
 ![iso 40 layout](iso_40.png)
-
-| row   | keys   |
-| :-:   | :-:    |
-| 0     | 12     |
-| 1     | 11     |
-| 2     | 12     |
-| 3     | 5      |
-| total | **40** |
