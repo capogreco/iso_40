@@ -1,6 +1,6 @@
 # Tender Mending Sender
 
-staggered 40% with an ISO enter
+staggered 40 with an ISO enter
 
 do what you love
 say what you mean
