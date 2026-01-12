@@ -1,0 +1,7 @@
+### Footprint positions - created on 2025-12-19T23:36:07+1100 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                                   PosX       PosY       Rot  Side
+J1        AVR-ISP-6  PinHeader_2x03_P1.27mm_Vertical_SMD   175.8500   -90.4875    0.0000  top
+## End
