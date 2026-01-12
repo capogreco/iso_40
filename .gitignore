@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# KiCad backup files
+*-backups/
+
+# KiCad lock files
+*.lck
+
+# KiCad autosave files
+_autosave-*
+
+# Auto-saved files marker
+\#auto_saved_files#
+
+# Footprint cache (can be regenerated)
+fp-info-cache
