@@ -3,6 +3,9 @@
 
 # KiCad backup files
 *-backups/
+*.kicad_pcb-bak
+*.sch-bak
+*-cache.lib
 
 # KiCad lock files
 *.lck
@@ -10,8 +13,21 @@
 # KiCad autosave files
 _autosave-*
 
+# KiCad local settings
+*.kicad_prl
+
 # Auto-saved files marker
 \#auto_saved_files#
 
 # Footprint cache (can be regenerated)
 fp-info-cache
+
+# Generated reports and exports
+DRC.rpt
+*.html
+*.xml
+
+# QMK build artifacts
+*.hex
+*.bin
+.build/
